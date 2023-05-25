@@ -1,1 +1,2 @@
-# news_sentiment_sql
+# News Headline Sentiment Analysis
+
